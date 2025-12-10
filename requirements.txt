@@ -1,6 +1,6 @@
-pyTelegramBotAPI==4.21.1
-psutil==5.9.8
-Pillow==10.2.0
-requests==2.31.0
-python-dotenv==1.0.0
-Flask==3.0.2
+pyTelegramBotAPI
+psutil
+Pillow
+requests
+python-dotenv
+Flask
