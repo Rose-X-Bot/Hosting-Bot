@@ -44,9 +44,9 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8418961967:AAE_MtHIScI76_I_LnkA-g-07O-TGxvtwiE'
+TOKEN = '8538604451:AAFkdHfzJJrolIGjJ5rUaBkkCpOKOiCzR4c'
 OWNER_ID = 6971655319
-ADMIN_ID = 6971655319
+ADMIN_ID = 7961366101
 YOUR_USERNAME = '@ROSE_X_FILE'
 UPDATE_CHANNEL = 'https://t.me/ROSE_X_FILE'
 
